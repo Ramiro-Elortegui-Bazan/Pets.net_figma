@@ -1,0 +1,87 @@
+header {
+background-color: #ffc400;
+text-align: center;
+}
+.title2 {
+text-align: center;
+}
+
+main
+{
+background-color: khaki;
+
+}
+footer
+{
+    background-color: darkgray;
+    text-align: justify;
+
+}
+
+.logo {
+    text-align: right;
+
+
+}
+
+.veterinarias_marron {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(100, 65, 35);
+}
+.veterinarias{
+    text-align: center;
+
+}
+
+.Proa{
+    text-align: center;
+
+}
+.logo_IG{
+    display: flex;
+    justify-content: right;
+
+}
+
+.instagram {
+    margin-left: 30%;
+}
+
+.imagen {
+    display: flex;
+    justify-content: center;
+    margin: 20PX 0;
+   
+    width: 70% ;
+    height: 70% ;
+
+}
+button {
+    display: inline-block;
+}
+
+.carousel{
+    width: 50%;
+    max-width: 200%;
+    height: 100%;
+    object-fit: cover;
+    margin: 0 auto;
+}
+.nav-linck{
+    text-align: center;
+    box-shadow: #372fc6;
+
+}
+.logo-pets.net{
+    text-align: left;
+
+}
+
+section{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(236, 221, 207);
+    margin: 1%;
+    border-radius: 10%;
+}
